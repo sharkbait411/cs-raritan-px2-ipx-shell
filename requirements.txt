@@ -1,0 +1,5 @@
+cloudshell-shell-core>=2.3.0,<4.0.0
+cloudshell-pdu-core>=1.0.0,<2.0.0
+cloudshell-snmp>=3.0.0,<3.0.137
+cloudshell-networking>=4.0.0,<4.1.0
+cloudshell-automation-api>=7.0.0.0,<7.1.0.0
